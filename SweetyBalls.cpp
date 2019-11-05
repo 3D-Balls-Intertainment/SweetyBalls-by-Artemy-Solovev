@@ -74,4 +74,3 @@ int get_rand(int min, int max) {
     return rand() % (max - min + 1) + min;
 }
 
-
